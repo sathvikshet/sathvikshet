@@ -1,8 +1,10 @@
 ## 👋 Hi, I'm Sathvik
 
-SQL-first Data Analyst focused on revenue, retention, churn, and experimentation analytics.
+SQL-first Data Analyst specializing in revenue, retention, churn, and experimentation analytics.
 
-📊 Analytics Portfolio:
+🔹 Strong focus on business-driven SQL analysis  
+🔹 Executive-level Power BI dashboards  
+🔹 Open to remote contract analytics engagements  
+
+📊 Portfolio:
 https://github.com/sathvikshet/analytics-portfolio
-
-🔹 Open to remote contract analytics work
