@@ -10,4 +10,4 @@ SQL-first **Data Analyst** specializing in **revenue, retention, churn, and expe
 I work across the full analytics workflow — from raw data and business logic to executive-ready insights — similar to how analytics teams operate in **startups and SaaS companies**.
 
 📊 **Portfolio:**  
-https://github.com/sathvikshet/analytics-portfolio
+https://github.com/sathvikshet/Data-Analyst-Portfolio
